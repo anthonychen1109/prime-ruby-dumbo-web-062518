@@ -2,5 +2,5 @@
 require 'math'
 
 def prime(num)
-  prime?(num)
+  Prime.num
 end
