@@ -1,6 +1,6 @@
 # Add  code here!
 require 'math'
 
-def prime(num)
+def prime?(num)
   Prime.num
 end
